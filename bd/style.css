@@ -1,0 +1,193 @@
+.menu{
+  width: 100%;
+  height: 20%;
+  background-color: #387070;
+
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  width: 50%;
+  height: 100%;
+  margin: 0 auto;
+
+}
+
+.img{
+  height: 60%;
+  padding-left: 10px;
+
+}
+
+
+
+.menu ul{
+  text-align: center;
+}
+
+
+
+.menu ul li{
+  display: inline-block;
+  padding-left: 50px;
+  margin-top: 20px;
+  font-size: 25px;
+  color: blue;
+
+}
+
+
+
+
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover{
+  color: #253f9d;
+}
+
+.fundal{
+  /*height: 100%;*/
+  width: 100%;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: radial-gradient(circle, #80beba, #4ca1ac, #77c0d4); /* Standard syntax (must be last) */
+}
+
+.centru{
+  width: 50%;
+  /*height: 100%;*/
+  margin: 0 auto;
+  background-image: radial-gradient(circle, #80beba, #77c0d4); /* Standard syntax (must be last) */
+  box-shadow: 0 4px 50px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.centru h1{
+  text-align: center;
+  padding-top: 10%;
+  font-size: 70px;
+  font-family: Monotype Corsiva;
+
+}
+
+#continut{
+  width: 70%;
+  text-align: center;
+  font-size: 30px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+  padding-top: 10px;
+}
+
+#continut form input{
+  margin-bottom: 10px;
+  width: 320px;
+  height: 40px;
+  text-indent: 5px;
+  font-size: 17px;
+
+}
+
+#continut form input:last-child{
+  background-color: #48a469;
+  border: 1px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#continut form input:last-child:hover{
+  background-color: #398040;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+#continut form{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#continut form:first-child{
+  padding-top: 180px;
+}
+
+
+
+
+
+.pass img{
+  height: 30px;
+  position: absolute;
+  top: 577px;
+  left: 1068px;
+}
+
+form img:hover{
+  cursor: pointer;
+}
+
+.pass button{
+  border: none;
+}
+
+.log img{
+  height: 30px;
+  position: absolute;
+  top: 477px;
+  left: 1075px;
+
+}
+
+.log button{
+  border: none;
+}
+
+.buton form input:last-child{
+  cursor: pointer;
+  background-color: #48a469;
+  border: 1px;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  text-indent: 2px;
+  height: 25px;
+  width: 70px;
+}
+
+.buton form input:last-child:hover{
+  background-color: #398040;
+  transition: 0.2s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fundal1{
+  height: 100%;
+  width: 100%;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: radial-gradient(circle, #80beba, #4ca1ac, #77c0d4); /* Standard syntax (must be last) */
+}
+
+.centru1{
+  width: 50%;
+  height: 100%;
+  margin: 0 auto;
+  background-image: radial-gradient(circle, #80beba, #77c0d4); /* Standard syntax (must be last) */
+  box-shadow: 0 4px 50px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.centru1 h1{
+  text-align: center;
+  padding-top: 10%;
+  font-size: 70px;
+  font-family: Monotype Corsiva;
+}
+
+#continut h1{
+  padding-bottom: 80px;
+}

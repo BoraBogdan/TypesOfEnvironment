@@ -1,0 +1,36 @@
+.font{
+  font-family: "Billy Argel";
+  text-align: center;
+  font-size: 55px;
+}
+
+.culoare{
+	background-image: url("bg1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+
+}
+
+.titlu{
+  padding-top: 20px;
+  font-size: 350%;
+
+}
+
+body{
+	margin: 0;
+	padding: 0px;
+}
+
+.container{
+
+	height: 91px;
+	width: 900px;
+	margin: 0 auto;
+	font-family: Pacifico;
+	text-align: center;
+
+
+}
